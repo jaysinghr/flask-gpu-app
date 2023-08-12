@@ -2,7 +2,7 @@
 
 Example app that demonstrates how to run a Flask app with a free GPU using Google Colab and ngrok.
 
-- Watch the YouTube tutorial: [https://youtu.be/wBCEDCiQh3Q](https://youtu.be/wBCEDCiQh3Q)
+- Watch the YouTube tutorial: [https://youtu.be/SZ2sUIq76pw](https://youtu.be/SZ2sUIq76pw)
 
 ## Instructions
 
